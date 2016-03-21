@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Studentinfo</string>
+    <string name="title">Student Information</string>
+    <string name="hint">Type Name</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="login">Input</string>
+</resources>
