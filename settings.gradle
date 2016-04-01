@@ -1,1 +1,1 @@
-include ':app', ':Studentinfo'
+include ':app', ':Studentinfo', ':listview', ':StudentinfoListview', ':messagelayout', ':net', ':test', ':webview', ':json'

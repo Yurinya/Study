@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Studentinfo/Studentinfo.iml" filepath="$PROJECT_DIR$/Studentinfo/Studentinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentinfoListview/StudentinfoListview.iml" filepath="$PROJECT_DIR$/StudentinfoListview/StudentinfoListview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Study.iml" filepath="$PROJECT_DIR$/Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messagelayout/messagelayout.iml" filepath="$PROJECT_DIR$/messagelayout/messagelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
     </modules>
   </component>
 </project>
